@@ -1,0 +1,1 @@
+TeleScope Data Analytics Agent provides productivity insights and visualizations from Lakehouse tables, including active vs. idle time, user, case, worksessions, tool, and trend analysis. Uses Code Interpreter to generate charts and analytics visuals.
